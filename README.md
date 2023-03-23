@@ -15,4 +15,4 @@ Follow these steps to run the program.
 
 Remeber:
 1. There must be two seperate consoles(one for server side and one for client side) opened at the same time for successfully running the program.
-2. Always run the server side first , and then run the client side. For example, first run the OVS_Server.c first and then run the OVS_Client.c 
+2. Always run the server side first , and then run the client side. For example, first run the OVS_Server.c and then run the OVS_Client.c 
