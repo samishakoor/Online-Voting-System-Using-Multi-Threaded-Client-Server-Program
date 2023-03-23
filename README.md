@@ -10,7 +10,8 @@ Follow these steps to run the program.
 8. Press Enter.
 9. Now write "./out2.o" on the second terminal.
 10. Press Enter.
-11. Now enter your correct name and cnic and choose a valid poll symbol to cast the vote successfully.
+11. Now you can cast vote(on client terminal) by entering your name and cnic and choosing the correct poll symbol.
+12. Multiple users can cast vote on same TCP connection.
 
 Remeber:
 1. There must be two seperate consoles(one for server side and one for client side) opened at the same time for successfully running the program.
